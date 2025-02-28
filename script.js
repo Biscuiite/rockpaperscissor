@@ -17,7 +17,7 @@ function getComputerChoice() {
     }
 }
 
-
+//test
 //Create a function named gethumanChoice.
 //Get the user's choice using the prompt() function.
 //Make sure that the user's choice can be accepted in any case. For example, both 'rock' and 'Rock' should be accepted.
